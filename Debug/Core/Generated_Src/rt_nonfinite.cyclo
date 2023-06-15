@@ -1,0 +1,5 @@
+rt_nonfinite.c:33:6:rt_InitInfAndNaN	1
+rt_nonfinite.c:45:11:rtIsInf	3
+rt_nonfinite.c:51:11:rtIsInfF	3
+rt_nonfinite.c:57:11:rtIsNaN	5
+rt_nonfinite.c:79:11:rtIsNaNF	3

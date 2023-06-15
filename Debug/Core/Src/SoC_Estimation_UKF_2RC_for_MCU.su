@@ -1,0 +1,5 @@
+../Core/Src/SoC_Estimation_UKF_2RC_for_MCU.c:122:8:batteryMeasurementFcn	32	static
+../Core/Src/SoC_Estimation_UKF_2RC_for_MCU.c:154:6:batteryStateFcn	56	static
+../Core/Src/SoC_Estimation_UKF_2RC_for_MCU.c:211:13:UKFCorrectorAdditive_getPredict	432	static
+../Core/Src/SoC_Estimation_UKF_2RC_for_MCU.c:305:6:SoC_Estimation_UKF_2RC_for_MCU_step	952	static
+../Core/Src/SoC_Estimation_UKF_2RC_for_MCU.c:731:6:SoC_Estimation_UKF_2RC_for_MCU_initialize	8	static

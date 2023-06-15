@@ -1,0 +1,5 @@
+SoC_Estimation_UKF_2RC_for_MCU.c:122:8:batteryMeasurementFcn	3
+SoC_Estimation_UKF_2RC_for_MCU.c:154:6:batteryStateFcn	3
+SoC_Estimation_UKF_2RC_for_MCU.c:211:13:UKFCorrectorAdditive_getPredict	13
+SoC_Estimation_UKF_2RC_for_MCU.c:305:6:SoC_Estimation_UKF_2RC_for_MCU_step	61
+SoC_Estimation_UKF_2RC_for_MCU.c:731:6:SoC_Estimation_UKF_2RC_for_MCU_initialize	1

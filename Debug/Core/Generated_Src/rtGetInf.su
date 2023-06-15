@@ -1,0 +1,4 @@
+../Core/Generated_Src/rtGetInf.c:25:8:rtGetInf	32	static
+../Core/Generated_Src/rtGetInf.c:49:10:rtGetInfF	16	static
+../Core/Generated_Src/rtGetInf.c:60:8:rtGetMinusInf	32	static
+../Core/Generated_Src/rtGetInf.c:84:10:rtGetMinusInfF	16	static
